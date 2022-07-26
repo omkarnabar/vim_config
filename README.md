@@ -1,2 +1,2 @@
 # vim_config
-yeah um so...
+###### My vim configurations
