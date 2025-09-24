@@ -45,7 +45,7 @@ nnoremap <leader>co :call IOBufferSetup()<cr>
 nnoremap <leader>cc :call CloseIOBuffers()<cr>
 nnoremap <leader>cr :call CompileAndRun()<cr>
 
-colorscheme onedark
+colorscheme gruvbox
 command! Config :lua find_configs()
 
 " setup input/output buffers on the right side for python,cpp,c
