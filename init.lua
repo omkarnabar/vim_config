@@ -2,7 +2,7 @@
 -- ============================================================================
 
 -- Leader key
-vim.g.mapleader = "\"
+vim.g.mapleader = " "
 
 -- General options
 local opt = vim.opt
